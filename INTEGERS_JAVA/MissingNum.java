@@ -28,5 +28,6 @@ public static void main(String[] args) {
 	for (Integer integer : g) {
 		System.out.println(integer);
 	}
+	sc.close();
 }
 }

@@ -5,7 +5,7 @@ public class swap_with_sequence_number {
         String qus= "Today is preasure";    // Is yadto erusaerp
         String arr[] = new String[qus.length()];
         for (int i = 0; i < qus.length(); i++) {
-            
+            System.out.println(arr[i]);
         }
     }    
 }

@@ -18,7 +18,7 @@ String a=input1.get(2);
 String num=a.replaceAll("[^0-9]","");
 String str= a.replaceAll("[^A-Z]", "");
 String sorttt=sortt(str);
-int number = Integer.parseInt(num);
+// int number = Integer.parseInt(num);
 output.add(0,"AJN");
 output.add(1,"BEF");
 output.add(2,"AMR");

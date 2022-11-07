@@ -1,4 +1,3 @@
-import java.util.Scanner;
 public class sub_valid {
 	public static void main(String[] args) {
 		 int ar[]= {4  ,2 ,-3 ,1,6};
@@ -21,6 +20,7 @@ public class sub_valid {
 		if(sum!=0){
 			ma(a+1,ar);
 		}
+		
 	}
 
 }

@@ -32,5 +32,6 @@ public class ip_valid {
 		catch (Exception e) {
 			System.out.println("Invalid");
 		}
+		sc.close();
 	}
 }
